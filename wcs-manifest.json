@@ -1,0 +1,31 @@
+{
+  "title": "webcomp-pages-hotjar",
+  "description": "HotJar widget for measuring the user's site interaction in forms of heatmaps.",
+  "descriptionAbstract": "HotJar widget",
+  "license": "AGPL-3.0",
+  "repositoryUrl": "https://github.com/noi-techpark/webcomp-pages-hotjar",
+  "authors": [
+    {
+      "name": "NOI",
+      "email": "info@noi.bz.it",
+      "organization": "NOI S.p.A",
+      "organizationUrl": "https://noi.bz.it"
+    },
+    {
+      "name": "Daniel Rampanelli",
+      "email": "hello@danielrampanelli.com"
+    }
+  ],
+  "image": null,
+  "searchTags": ["pages", "hotjar", "heatmap"],
+  "dist": {
+    "basePath": "dist",
+    "files": [
+      "pages-hotjar.min.js"
+    ]
+  },
+  "configuration": {
+    "tagName": "pages-hotjar",
+    "options": []
+  }
+}
